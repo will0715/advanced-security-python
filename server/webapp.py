@@ -16,3 +16,4 @@ database = sqlite3.connect(database_uri, check_same_thread=False)
 cursor = database.cursor()
 
 api_token = "12312321321"
+test = 1
